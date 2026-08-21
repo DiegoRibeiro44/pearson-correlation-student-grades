@@ -1,0 +1,17 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Saidas geradas (mantem a pasta, ignora o conteudo)
+outputs/**
+!outputs/**/
+!outputs/**/.gitkeep
